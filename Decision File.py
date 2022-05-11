@@ -26,7 +26,7 @@ if mark >= 90:
     print ("You aced it!")
     
 elif mark >= 70:
-    print ("You got a B! Good Job!")
+    print ("You got a B! Good Job!jkhjhk")
 
 elif mark >= 60:
     print("That's a C!")
