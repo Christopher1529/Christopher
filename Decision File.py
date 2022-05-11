@@ -32,7 +32,7 @@ elif mark >= 60:
     print("That's a C!")
     
 elif mark >= 50:
-    print("You barely made it!")
+    print("You barely made itlkj!")
     
 else:
     print("You failed!")
